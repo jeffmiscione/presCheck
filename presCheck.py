@@ -3,11 +3,11 @@ import time
 import serial
 
 # Twitter API credentials ================================
-consumer_key = "Q6iSleUN9MD6mRabru9RDwaM2"
-consumer_secret = "ftEWSSzjctFygu4nTvhpzfesYXcM8SnNSbHmvJGhky3bCQnBMX"
-access_key = "846797813224755200-Pp6FyA17Xnx8G2sk3N0IoTlCHE70T15"
-access_secret = "1uI9poluFonQloi82Lzx5yJUf1T70NvntSvqt5ktrsUco"
-twitter_target = 'JeffMiscione' # 'POTUS'
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
+twitter_target = '' # 'POTUS'
 # ========================================================
 
 # Functions ==============================================
